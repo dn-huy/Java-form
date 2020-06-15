@@ -1,4 +1,4 @@
-﻿#include <GL/glut.h>
+#include <GL/glut.h>
 #include <cstdlib>
 #include <ctime>
 #include <vector>
