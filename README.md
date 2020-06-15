@@ -1,2 +1,0 @@
-# opengl
-opengl project
